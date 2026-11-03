@@ -31,3 +31,22 @@ Linting and formatting use [oxlint](https://oxc.rs/docs/guide/usage/linter) and 
 - `lint` / `lint:fix` - lint with oxlint
 - `format` / `format:check` - format with oxfmt
 - `type-check` - run the TypeScript compiler without emitting
+
+# Intro
+
+Write a README (using Markdown) that documents your project including:
+
+- [ ] Wireframes
+- [ ] Technologies used
+- [ ] Features
+- [ ] Future work
+
+---
+
+# Wireframes
+
+# Technologies used
+
+# Features
+
+# Future Work
